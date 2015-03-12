@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/nwpuruanjian.png</file>
+        <file>image/title.png</file>
+        <file>image/about.png</file>
+        <file>image/background.jpg</file>
+        <file>image/headphoto.png</file>
+        <file>image/icon.png</file>
+        <file>image/background.png</file>
+    </qresource>
+</RCC>
